@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+  overflow: hidden;
+  background-color: #333;
+  }
+  
+  .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+  
+  .topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  }
+  
+  .topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+  }
+  
+  .php {
+  color: white;
+  font-size: 16px;
+  }
+  
+  
+  .post-title {
+  font-size: 24px; /* Размер текста для первой строки */
+  font-weight: bold; /* Жирный шрифт */
+  margin-bottom: 5px; /* Отступ снизу */
+  text-align: center; /* Выравнивание текста */
+  }
+  
+  .post-content {
+  font-size: 16px; /* Размер текста для остальных строк */
+  text-align: left; /* Выравнивание текста */
+  }
+  .rounded-rectangle {
+    width: 400px;
+    height: auto; /* Автоматическая высота для текста */
+    background-color: limegreen; /* Заливка зеленым цветом */
+    border: 5px solid green; /* Ярко-зеленый контур */
+    border-radius: 15px; /* Скругленные углы */
+    padding: 10px; /* Внутренние отступы */
+    margin: 20px 0; /* Внешние отступы */
+    color: white; /* Цвет текста */
+    }
+  text {
+    color:white;
+    font-size: 16px; /* Размер текста для остальных строк */
+    text-align: left; /* Выравнивание текста */
+    
+  }
